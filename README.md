@@ -33,7 +33,7 @@ Get USA block group dataset from [here](https://hub.arcgis.com/datasets/d3a11165
 | [Table 3](./notebooks/Wong_et_al/Mean-Interpolated-O3.ipynb) | Mean interpolated O3 |
 | [Table 4](./notebooks/Wong_et_al/Cross-Validation.ipynb) | Cross-validation on O3 |
 | [Table 5](./notebooks/Sekulic_et_al/Interpolation-RFSI.ipynb) | Interpolation over serbia |
-| [Table 6](./notebooks/Processing_time.ipynb) | Processing time of all variables |
+| [Table 6](./notebooks/Processing_time.ipynb) | Processing time of all algorithms |
 
 
 ### Additional information
